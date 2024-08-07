@@ -7,7 +7,6 @@
 
 This project is an API built using **Java, Java Spring, Flyway Migrations, PostgresSQL as the database, and Spring Security and JWT for authentication control.**
 
-The API was developed for my [Youtube Tutorial](https://www.youtube.com/watch?v=5w-YCcOjPD0), to demonstrate how to configure Authenticatio and Authorization in Spring application using Spring Security.
 
 ## Table of Contents
 
@@ -22,10 +21,6 @@ The API was developed for my [Youtube Tutorial](https://www.youtube.com/watch?v=
 ## Installation
 
 1. Clone the repository:
-
-```bash
-git clone https://github.com/Fernanda-Kipper/auth-api.git
-```
 
 2. Install dependencies with Maven
 
